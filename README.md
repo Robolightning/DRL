@@ -88,7 +88,7 @@ mkdir checkpoints
 
 ## Dataset & Preparation
 
-Download UL14 upon request. You may use the request [Template](docs/request.md).
+UL14 has been released in [HF](https://huggingface.co/datasets/Dmmm997/UL14).
 
 Additionally, download the pretrain weight of cvt13 from this [link](https://seunic-my.sharepoint.cn/:u:/g/personal/230238525_seu_edu_cn/EUnD6wdRZ3hKhefxpqBsdpIBqzxzFGN7mm2rL548QZXtZw?e=YvwDFJ).
 
