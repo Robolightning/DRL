@@ -88,7 +88,7 @@ mkdir checkpoints
 
 ## Dataset & Preparation
 
-UL14 has been released in [link]([https://huggingface.co/datasets/Dmmm997/UL14](https://modelscope.cn/datasets/dmmm997/UL14/files)).
+UL14 has been released in [link](https://modelscope.cn/datasets/dmmm997/UL14/files).
 
 Additionally, download the pretrain weight of cvt13 from this [link](https://seunic-my.sharepoint.cn/:u:/g/personal/230238525_seu_edu_cn/EUnD6wdRZ3hKhefxpqBsdpIBqzxzFGN7mm2rL548QZXtZw?e=YvwDFJ).
 
