@@ -1,4 +1,5 @@
 checkpoints/*
+map2019/*
 *.zip
 data/*
 *.pth

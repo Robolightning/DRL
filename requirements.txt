@@ -7,5 +7,7 @@ scipy
 matplotlib
 pillow
 thop
-mmdet>=2.28.2
+timm
+einops
+mmdet@git+https://github.com/Robolightning/mmdetection --no-build-isolation.git
 mmcv@git+https://github.com/Robolightning/mmcv.git

@@ -5,8 +5,6 @@ from __future__ import print_function, division
 import json
 
 import time
-from torch.nn.functional import sigmoid
-import yaml
 from models.taskflow import make_model
 from tqdm import tqdm
 import numpy as np
@@ -17,7 +15,7 @@ import os
 from datasets.SiamUAV import SiamUAV_test
 from collections import defaultdict
 from tool.evaltools import Distance
-from mmcv import Config
+from mmengine.config import Config
 
 
 def get_opt():
